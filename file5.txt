@@ -1,2 +1,0 @@
-welcome to java class
-learn java,sql,junit
